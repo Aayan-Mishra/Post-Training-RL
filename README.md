@@ -14,7 +14,7 @@ This repository contains a Python implementation for fine-tuning pre-trained lan
 ## Installation
 
 ```bash
-git clone https://huggingface.co/YOUR_USERNAME/rl-finetuning
+git clone https://huggingface.co/Aayan-Mishra/Post-Training-RL
 cd rl-finetuning
 pip install -r requirements.txt
 ```

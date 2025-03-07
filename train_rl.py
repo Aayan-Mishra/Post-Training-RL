@@ -350,7 +350,7 @@ datasets:
 
 # RL Fine-tuned {self.config.model_name.split('/')[-1]}
 
-This model was fine-tuned from [{self.config.model_name}](https://huggingface.co/{self.config.model_name}) using Reinforcement Learning with PPO.
+This model was fine-tuned from [{self.config.model_name}](https://huggingface.co/{self.config.model_name}) using Reinforcement Learning with PPO script made by [Spestly](https://github.com/Aayan-Mishra).
 
 ## Training procedure
 

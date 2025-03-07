@@ -111,9 +111,9 @@ If you use this code in your research or project, please cite this repository:
 
 ```
 @software{rl_finetuning,
-  author = {Your Name},
+  author = {Aayan Mishra},
   title = {Reinforcement Learning Fine-tuning for Language Models},
-  url = {https://huggingface.co/YOUR_USERNAME/rl-finetuning},
+  url = {https://huggingface.co/Spestly},
   year = {2025},
 }
 ```
